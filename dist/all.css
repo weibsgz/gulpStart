@@ -1,0 +1,20 @@
+
+body{
+    font-size:20px;
+    line-height: 30px;
+}
+
+.div1{
+    width: 200px; 
+    height: 100px; 
+    background-color: blue
+}
+
+
+.div2{
+    width: 300px; 
+    height: 200px; 
+    background-color: red;
+}
+
+.output{ color:yellow; }
